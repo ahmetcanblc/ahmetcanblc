@@ -6,7 +6,7 @@ logo_url:           assets/img.jpg # Get it from GitHub API: https://api.github.
 
 # Site Settings
 url:                https://ahmetcan.org/ # main url
-baseurl:            /ahmetcanblc
+baseurl:            
 permalink:          /:title # Post permalink
 timezone:           Europe/Istanbul # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 mathjax:            true  # enables support for mathjax - set to 'false' to disable
