@@ -60,4 +60,5 @@ Bu başlıkların her biri için tüm detayları içeren sayısız web sitesi va
 Hayatını internet üzerinden kazanmak bazılarının söylediği kadar kolay değil. Benim para kazanmaya başlamam yıllar sürdü ama vazgeçmedim çünkü bu işi seviyorum ve dünyanın herhangi bir yerinden çalışabiliyor olmak bana emeğimin karşılığını tam olarak veriyor. Senin için ne uygunsa onu bul, internetteki ücretsiz kaynaklardan olabildiğince çok şey öğren ve vazgeçme. Biraz kararlılık ve ısrarcılıkla hayal ettiğin yerde bir LIP olarak yaşayıp çalışabilirsin.
 
 > * Bu yazı Kirsty Henderson tarafından ilk olarak 27 Ocak 2009’da yayınlanmıştır.
+
 [^1]: Kaynak: www.elvedaofis.com - [click here!](http://elvedaofis.com)
