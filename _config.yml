@@ -5,7 +5,7 @@ author_name:        "ahmetcanblc" # change this to your name
 logo_url:           assets/img.jpg # Get it from GitHub API: https://api.github.com/users/<username>
 
 # Site Settings
-url:                https://ahmetcanblc.github.io # main url
+url:                https://ahmetcan.org/ # main url
 baseurl:            /ahmetcanblc
 permalink:          /:title # Post permalink
 timezone:           Europe/Istanbul # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
