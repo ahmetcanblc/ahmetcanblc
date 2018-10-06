@@ -61,5 +61,5 @@ Hayatını internet üzerinden kazanmak bazılarının söylediği kadar kolay d
 
 > * Bu yazı Kirsty Henderson tarafından ilk olarak 27 Ocak 2009’da yayınlanmıştır.
 
-[^1]: Kaynak - www.elvedaofis.com - [click here!](http://elvedaofis.com)
-[^2]: Editör - Ahmet Can Bilici - ahmetcan.org
+kaynak: www.elvedaofis.com - [click here!](http://elvedaofis.com)
+
